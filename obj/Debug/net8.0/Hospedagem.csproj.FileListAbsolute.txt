@@ -1,0 +1,15 @@
+C:\Users\Davi\git_projects\Hospedagem\bin\Debug\net8.0\Hospedagem.exe
+C:\Users\Davi\git_projects\Hospedagem\bin\Debug\net8.0\Hospedagem.deps.json
+C:\Users\Davi\git_projects\Hospedagem\bin\Debug\net8.0\Hospedagem.runtimeconfig.json
+C:\Users\Davi\git_projects\Hospedagem\bin\Debug\net8.0\Hospedagem.dll
+C:\Users\Davi\git_projects\Hospedagem\bin\Debug\net8.0\Hospedagem.pdb
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.AssemblyInfo.cs
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.sourcelink.json
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.dll
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\refint\Hospedagem.dll
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.pdb
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\Hospedagem.genruntimeconfig.cache
+C:\Users\Davi\git_projects\Hospedagem\obj\Debug\net8.0\ref\Hospedagem.dll
